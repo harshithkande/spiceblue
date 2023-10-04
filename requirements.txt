@@ -1,0 +1,6 @@
+Flask-PyMongo
+Flask
+Flask-JWT-Extended
+PyMongo==3.12
+
+
