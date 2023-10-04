@@ -123,11 +123,12 @@ Copy code
 Body:
 json
 Copy code
-{
-    "template_name": "Welcome Template",
-    "subject": "Welcome to our platform",
-    "body": "Dear {name}, welcome to our platform."
-}
+
+  {
+                "template_name": "harshith",
+                "subject": "tets",
+                "body": "created template"
+    } 
 
 reponse:
 {
