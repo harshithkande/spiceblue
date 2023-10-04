@@ -1,19 +1,24 @@
 Flask and MongoDB RESTful API with User Authentication using JWT
+
 This project demonstrates the creation of a RESTful API using Flask and MongoDB, along with user authentication using JWT (JSON Web Token). The API has three endpoints for user registration, user login, and template management.
 
 Prerequisites
+
 Python 3.x
+
 Postman
+
 MongoDB Atlas account (for free MongoDB hosting with 512MB size)
 
 Setup
+
 Clone the repository:
+
 bash
 Copy code
-git clone https://github.com/harshithkande/spiceblue.git
-cd flask-mongodb-api
 
-Install dependencies:
+git clone https://github.com/harshithkande/spiceblue.git
+
 
 Create virtual environment with name spiceblue 
 bash 
@@ -26,14 +31,18 @@ bash
 copy code
 source spiceblue/bin/activate
 
+Install dependencies:
+
 To install all requirements to run the application
 bash
 Copy code
+
 pip install -r requirements.txt
 
 Run the Application
 bash
 Copy code
+
 python3 app.py
 
 
