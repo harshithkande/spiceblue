@@ -10,6 +10,8 @@ Postman
 
 MongoDB Atlas account (for free MongoDB hosting with 512MB size)
 
+To connect to my mongoDB cluster we need to add your personal ip address in harhithkande mongodb database.
+
 Setup
 
 Clone the repository:
